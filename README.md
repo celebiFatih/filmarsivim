@@ -1,0 +1,2 @@
+# Kişisel Film Arşiv ve İzleme Sistemi
+Geliştirilen bu program ile SQL Server kullanarak oluşturulan veri tabanına favori filmlerinizin web adreslerini kaydedip programa yerleştirilen webBrowser aracı ile izleyebilirsiniz. Ayırca oluşturulan tam ekran izle butonu ile filminizi tam ekran izleyebilir arkaplan değiştir butonuyla da programınızın arkaplanını rastgele değiştirebilirsiniz.
